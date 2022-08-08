@@ -2,7 +2,9 @@
 
 <img src="docs/source/_static/images/logo.png" width="400px">
 
-**Machine learning metrics for distributed, scalable PyTorch applications.**
+**Fork of [Lightning-AI/metrics](https://github.com/Lightning-AI/metrics)**<br></br>
+**Machine learning metrics for distributed, scalable PyTorch applications.** <br></br>
+A more trigger-happy + unstable version of [metrics](https://github.com/Lightning-AI/metrics) with a couple of extra PRs merged in
 
 ______________________________________________________________________
 
